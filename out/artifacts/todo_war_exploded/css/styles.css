@@ -1,0 +1,34 @@
+footer{
+    position: fixed;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    height: 40px;
+    font-weight: bold;
+}
+
+.contenu{
+    height: 600px;
+    overflow: auto;
+}
+
+.card-text{
+    max-height: 280px;
+}
+
+.card{
+    margin:auto;
+    width: 18rem;
+    height: 500px;
+    overflow: auto;
+}
+
+.text-info, card-text{
+    max-height: 280px;
+    overflow: auto;
+}
+
+#content{
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
