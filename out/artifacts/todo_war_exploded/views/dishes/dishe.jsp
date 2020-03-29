@@ -1,1 +1,1 @@
-Dishe detail
+﻿Dishe detail
